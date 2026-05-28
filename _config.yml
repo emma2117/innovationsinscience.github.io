@@ -27,6 +27,33 @@ url: "https://emma2117.github.io" # the base hostname & protocol for your site, 
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+#nav bar 
+header_pages:
+  - _pages/about.md
+  - _pages/team.md
+  - _pages/columns.html
+  
+# Get pages to actually show up: 
+include:
+  - _pages
+  - _columns
+  - _pdfs
+
+#building collections of pages so they can be easily looped through every time one is added
+collections:
+  columns:
+    output: true
+    permalink: /:collection/:path/
+
+# These settings control how pages and collections are included in the site
+defaults:
+  # _columns
+  - scope:
+      path: ""
+      type: columns
+    values:
+      layout: post
+
 # Build settings
 theme: minima
 plugins:

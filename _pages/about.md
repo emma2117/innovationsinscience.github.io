@@ -1,0 +1,13 @@
+---
+layout: page
+title: Inception of "Innovations"
+permalink: /about/
+---
+
+Innovations in Science began as an idea for a series of columns for the independent local newspaper, *Ithaca Times* that would shed light on the scientific advances being made right here in Ithaca and allow community members to better engage with their neighbors doing the research. When Roy Allen, the community publisher / managing editor behind *Ithaca Times*, wrote the first column, he was well aware of the excitement that local Cornell University, Ithaca College, and Paleontological Research Institution researchers had for the project, but he didn't know that it would become fodder for a movement.
+
+At the same time, Emma Scales, a Ph.D. candidate at Cornell, was looking for a way to institutionalize the mission behind a nationwide science communication initiative she helped found and lead in 2025. That initiative was the McClintock Letters, which resulted in the publication of over 200 articles written by scientists for their hometown newspapers across at least 45 states, D.C., and Puerto Rico about what they do and why it matters. 
+
+In early 2025, major disruptions to the federal research infrastructure rocked the scientific world and brought progress to a screeching halt. Emma and her friends and colleagues in the Scientist Network for Advancing Policy (SNAP) and the Cornell Advancing Science and Policy Club recognized that widespread public outcry over the decimation of a research ecosystem that impacts every facet of all of our lives never came because the scientific community had long overlooked and undervalued something critical: community engagement. The McClintock Letters were then borne of this realization as a first step to begin addressing this huge problem right away. The initiative was widely applauded by scientists, community members, and major research institutions alike, but the praise felt empty without a way to grow and strengthen the ties between scientists and their communities that the initiative had formed. 
+
+So, in February 2026, in the midst of a flurry meetings with Cornell administrators, media professionals, and science advocates, when Emma happened to pick up a copy of the *Ithaca Times* at her local coffee shop one morning, you can imagine the utter serendipity of reading Roy's first Innovations in Science column. Emma and Roy quickly got in touch, and with the support and enthusiasm of a team of early career researchers from SNAP, imagined a new way forward that would lift up local newspapers and make science more accessible to the communities already enabling it. 
