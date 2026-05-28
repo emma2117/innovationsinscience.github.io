@@ -22,7 +22,7 @@ title: Innovations in Science
 email: community@innovationsinscience.com
 description: >- # this means to ignore newlines until "baseurl:"
   Innovations in Science is a storytelling and community engagement platform designed to make science more visible, understandable, and locally relevant and developed from a collaboration between local newspapers and scientists.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
