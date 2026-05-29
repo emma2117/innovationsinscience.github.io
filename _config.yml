@@ -45,6 +45,16 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+#fonts
+fonts:
+  use_google_fonts: true # if true will use external google_fonts url below
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  google_fonts_url: "https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Oswald:wght@200..700&display=swap"
+  use_self_hosted_fonts: false # font files must be placed in /assets/fonts folder and the @font-face definitions must be added to /assets/css/fonts.css
+  heading: "Oswald"
+  base: "EB-Garamond"
+
 # These settings control how pages and collections are included in the site
 defaults:
   # _columns
