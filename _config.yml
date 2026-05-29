@@ -30,7 +30,7 @@ url: "https://emma2117.github.io" # the base hostname & protocol for your site, 
 #nav bar 
 header_pages:
   - _pages/about.md
-  - _pages/team.md
+  - _pages/team.html
   - _pages/columns.html
   
 # Get pages to actually show up: 
