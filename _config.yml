@@ -38,6 +38,7 @@ include:
   - _pages
   - _columns
   - _pdfs
+  - _images
 
 #building collections of pages so they can be easily looped through every time one is added
 collections:
