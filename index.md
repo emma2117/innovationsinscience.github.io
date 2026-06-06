@@ -5,6 +5,9 @@
 layout: home
 title: Welcome!
 ---
+![alt text][image-ref]
+
+[image-ref]: {{ site.url }}{{ site.baseurl }}/_images/header.png "Innovations in Science Column Header"
 
 Innovations in Science is a new project that emerged from a partnership between scientists and local newspapers. Our mission is to foster a nationwide ecosystem of robust local science journalism, beginning in the small upstate NY college town of Ithaca. 
 

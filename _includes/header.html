@@ -3,11 +3,11 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <a class="logo" href="/">
-            <img src="{{ site.url }}{{ site.baseurl }}/_images/logo.png" alt="logo" width="100px" height="100px" />
+     <a class="logo" href="/">
+            <img src="{{ site.baseurl }}/_images/logo.png" alt="logo" width="60px" height="60px" />
         </a>
-
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+   
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />

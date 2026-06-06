@@ -252,3 +252,26 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+/**
+ * Columns
+ */
+.container {
+  padding: 0;
+  width: 1300px;
+  display: grid;
+  column-gap: 70px;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 0;
+}
+
+.row{
+   padding: 10px;
+   display:grid;
+   grid-template-columns: 50% 50%;
+   justify-content: center;
+   text-align: left;
+   height: 200px;
+}
+
+
