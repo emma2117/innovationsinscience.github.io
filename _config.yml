@@ -47,6 +47,10 @@ collections:
   columns:
     output: true
     permalink: /:collection/:path/
+  newsletters:
+    output: true
+    permalink: /:collection/:path/
+
 
 #fonts
 fonts:
@@ -64,6 +68,12 @@ defaults:
   - scope:
       path: ""
       type: columns
+    values:
+      layout: post
+  # _newsletters
+  - scope:
+      path: ""
+      type: newsletters
     values:
       layout: post
 
