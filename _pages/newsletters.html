@@ -1,0 +1,15 @@
+---
+layout: page
+title: Newsletters
+permalink: /newsletters/
+---
+
+<h2>Newsletters</h2>
+<ul>
+  {% for newsletter in site.data.newsletters %}
+  <li>
+    <p>{{ newsletter.date | date: '%b %d, %Y' }}:
+      <a href="{{ newsletter.page }}">{{ newsletter.headline }}</a> by {{ newsletter.author }}
+  </li>
+  {% endfor %}
+</ul>

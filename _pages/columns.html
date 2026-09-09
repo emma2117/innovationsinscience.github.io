@@ -13,5 +13,13 @@ permalink: /columns/
   </li>
   {% endfor %}
 </ul>
-<h2>Published newsletters</h2>
-<a href="{{ site.url }}{{ site.baseurl }}/_newsletters/26-09.html">September 2026</a>
+
+<h2>Newsletters</h2>
+<ul>
+  {% for newsletter in site.data.newsletters %}
+  <li>
+    <p>{{ newsletter.date | date: '%b %d, %Y' }}:
+      <a href="{{ newsletter.page }}">{{ newsletter.headline }}</a> by {{ newsletter.author }}
+  </li>
+  {% endfor %}
+</ul>
