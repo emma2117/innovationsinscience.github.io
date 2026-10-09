@@ -274,4 +274,71 @@ table {
    height: 200px;
 }
 
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #B6E6FC;
+  color: #2E6881;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: $base-font-size*2;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #F9FBA7;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+}
+
+details {
+  user-select: none;
+}
+
+details>summary span.icon {
+  width: 24px;
+  height: 24px;
+  transition: all 0.3s;
+  margin-left: auto;
+}
+
+details[open] summary span.icon {
+  transform: rotate(180deg);
+}
+
+summary {
+  display: flex;
+  cursor: pointer;
+  font-family: $header-font-family;
+  font-weight: $base-font-weight;
+  background-color: #B6E6FC;
+  color: #2E6881;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  border-radius: 16px;
+}
+
+.active, summary:hover {
+  background-color: #F9FBA7;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+
+
+
 

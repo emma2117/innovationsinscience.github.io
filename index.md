@@ -9,10 +9,14 @@ title: Welcome!
 
 [image-ref]: {{ site.url }}{{ site.baseurl }}/_images/header.png "Innovations in Science Column Header"
 
-Innovations in Science is a new project that emerged from a partnership between scientists and local newspapers. Our mission is to foster a nationwide ecosystem of robust local science journalism, beginning in the small upstate NY college town of Ithaca. 
+Innovations in Science is a new project that emerged from a partnership between scientists and local newspapers. Our mission is to foster a nationwide ecosystem of robust local science journalism, beginning in the small upstate NY college town of Ithaca.
 
-We believe that scientific advances should not be siloed behind the walls of research institutions and that communities around the country and local researchers alike benefit from shared engagement around science. Locals deserve to know about the transformative advances being made in their own backyards, just as the researchers making those advances deserve to have their story told. We are building a community-focused platform for sharing the stories of science, so that we can all appreciate the wonders happening in our own neighborhoods!
+Did you know that right here in Ithaca, our scientist neighbors have uncovered a [mechanism for the long-term benefits of psychedelic treatments for PTSD and depression]({{ site.url }}{{ site.baseurl }}/_pdfs/IS_Kwan.pdf)? Or that local researchers are illuminating an unexpected guidebook — [the fossil record]({{ site.url }}{{ site.baseurl }}/_pdfs/IS_Dietl.pdf) — to help natural resource management agencies make better decisions about conservation and habitat restoration for animals and plants on Earth today?
 
-Please visit our crowdfunding campaign (coming soon) if you would like to support this project! If you are a researcher and would like to get involved in future publications, please enter your information below. 
+We believe that scientific advances should not be siloed behind the walls of research institutions and that communities around the country and local researchers alike benefit from shared engagement around science. Locals deserve to know about the transformative advances being made in their own backyards, just as the researchers making those advances deserve to have their story told.
+
+We are building a community-focused platform for sharing the stories of science, so that we can all appreciate the wonders happening in our own neighborhoods.
+
+If you would like to support our work, you can do so by clicking the button below: 
 
 

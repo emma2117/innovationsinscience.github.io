@@ -29,10 +29,11 @@ url: "https://emma2117.github.io" # the base hostname & protocol for your site, 
 
 #nav bar 
 header_pages:
-  - _pages/about.md
+  - _pages/about.html
   - _pages/team.html
   - _pages/columns.html
   - _pages/newsletters.html
+  - _pages/get-involved.html
   
 # Get pages to actually show up: 
 include:
