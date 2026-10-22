@@ -1,15 +1,25 @@
 ---
 layout: page
-title: Columns
+title: Articles
 permalink: /columns/
 ---
 
-<h2>Published Innovations in Science Columns</h2>
+<h2>Published Innovations in Science Features</h2>
 <ul>
   {% for column in site.data.columns %}
   <li>
     <p>{{ column.date | date: '%b %d, %Y' }}:
       <a href="{{ column.page }}">{{ column.headline }}</a> by {{ column.author }}
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Newsletters</h2>
+<ul>
+  {% for newsletter in site.data.newsletters %}
+  <li>
+    <p>{{ newsletter.date | date: '%b %d, %Y' }}:
+      <a href="{{ newsletter.page }}">{{ newsletter.headline }}</a> by {{ newsletter.author }}
   </li>
   {% endfor %}
 </ul>
